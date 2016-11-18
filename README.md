@@ -1,5 +1,13 @@
 # Git Tutorial
 
+Here are some of the coding monster's changes to this tutorial file. This reminds me a little of table topics in toastmasters where you select a topic to talk about for 2 or 3 minutes and I go up and freeze.  Or karaoke... actually karaoke might be worse, but just marginally. So here's a shot at some formatting
+[There are fireworks going off behind me, aren't there... - sorry if I stole your image, if it's an issue I'll delete it](http://www.yourpetspace.info/wp-content/uploads/2015/06/FIREWORKS-Cat.jpg)
+Do bullets work here? Let's see
+* 
+##Here's a heading
+###And maybe a sub-heading?
+
+
 Used git, but only a little?
 Want to know more about collaborating with other people?
 Check out our git tutorial!
